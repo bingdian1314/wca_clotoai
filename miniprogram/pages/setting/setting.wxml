@@ -1,0 +1,11 @@
+<!--setting.wxml-->
+
+<view class="container">
+    <t-button theme="primary">按钮</t-button>
+  <view class="userinfo">
+
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>

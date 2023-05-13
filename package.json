@@ -1,0 +1,13 @@
+{
+  "name": "miniprogram-ts-less-quickstart",
+  "version": "1.0.0",
+  "description": "LY WeChat Applet",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "tdesign-miniprogram": "^1.1.5",
+    "typescript": "^5.0.4"
+  }
+}
